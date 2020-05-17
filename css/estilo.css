@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+
+    font-family: Arial;
+}
+.zero
+{
+  
+    text-align: center;
+}
+.A
+{
+    float: left;
+    
+    text-align: left;
+    padding-top: 1px;
+
+}
+.uno
+{
+    
+    
+    padding:30px ;
+    background: #3867d6;
+   
+}
+
+.dos{
+    padding: 30px;
+    
+    background:#c0392b;
+    text-align: left;  
+    
+}
+
+
+.dos li
+{
+    list-style: none;
+    padding: 4px;
+    font: bold 13px verdana;
+   
+    display: inline-block;
+}
+a{
+    list-style: none;
+    color: white;
+
+}
+.tres
+{
+    text-align: center;
+    padding: 50px;
+
+    margin-top: 10px;
+
+    margin-bottom: 30px;
+}
+
+.tresB
+{
+    float: left;
+  
+
+}
+.tresA
+{
+    float: left;
+    padding: 3px;
+    width: 800px;
+    
+    text-align: center;
+}
+
+.pie
+{
+    padding:60px;
+    background: #16a085;
+    clear: both;
+}
+.ima1{
+    width: 80px;
+    height: 80px;
+}
